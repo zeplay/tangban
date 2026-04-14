@@ -1,3 +1,315 @@
+
+
+				<script>
+var bar=0
+var line="†"
+var amount="†♥"
+function count(){
+bar=bar+2
+amount =amount + line
+document.loading.chart.value=amount
+document.loading.percent.value=bar+"%"
+if (bar<120)
+{setTimeout("count()",120);}
+else
+{loaibo()}
+}
+</script>
+<div id="TGTH_Loading" align="center" style="position:fixed;visibility:hidden;-moz-opacity: 0.80px;background: #000000;filter: alpha(opacity=80);height: 100%;left: 0%;top: 0%;opacity: 0.80;width: 100%;z-index: 1001;">
+<form name="loading">
+<table align="center" style="position:fixed;top:11%; left: 0px;" height="90%" width="100%"><tbody><tr><td valign="center"><p align="center" style="font-family:Verdana;color:red;font-size:20pt;font-weight:bold">Welcome to Website Nàng Thơ Xinh Gái</p><p align="center" style="font-
+family:Verdana;color:#295dc6;font-size:15pt;font-weight:bold"> Cảm Ơn Bạn Đã Dành Thời Gian Ghé Thăm trang Nếu Thấy Hay Thì ủng hộ nhé</p><p align="center" style="font-family:Verdanal;font-size:8pt"><input style="border: medium none ; color: white; background-color:black; text-align: center;" size="†" name="percent" /><br /><input style="border-style: none; padding: 0px; font-weight: bolder; color:white ; font-family: Arial; background-color: rgb(55, 55, 55);" size="45" name="chart" /><br /><script>count()</script><b><font style="font-size: 8pt;" color="#ff6600" face="Verdana"> Đang tải dữ liêu … Đợi chút xíu nhé!</font></b></p><br /><p align="center"style="font-family:Verdana;font-weight:bold"><a href="Javascript:loaibo()()" style="color:yellow;font-size:10pt"> Nhấn vào đây nếu bạn không muốn đợi lâu </a></p>
+</td></tr></tbody></table></form>
+</div>
+<script type="text/javascript">
+var once_per_session=1
+function loaibo(){
+document.getElementById('TGTH_Loading').style.visibility="hidden"
+document.cookie="TGTH_Loading=yes"
+}
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) { // if cookie exists
+offset += search.length
+// set index of beginning of value
+end = document.cookie.indexOf(";", offset);
+// set index of end of cookie value
+if (end == -1)
+end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+function Dongloading(){
+if (get_cookie('TGTH_Loading')=='')
+{
+Moloading()
+}
+}
+function Moloading(){
+document.getElementById('TGTH_Loading').style.visibility="inherit"
+}
+if (once_per_session==0)
+Moloading()
+else
+Dongloading()
+</script>	
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+    <title>Việt Nam</title>
+    <meta http-equiv="Content-Type" content="application/vnd.wap.xhtml+xml; charset=utf-8" />
+</head><body><div style="display:none"><script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p-0cfM8Oh7M9bVQ"
+});
+</script>
+<noscript>
+<img src="//pixel.quantserve.com/pixel/p-0cfM8Oh7M9bVQ.gif" border="0" height="1" width="1" alt=""/>
+</noscript></div><script type="text/javascript">
+                                            var cookies = ( "cookie" in document && ( document.cookie.length > 0 || (document.cookie = "test").indexOf.call(document.cookie, "test") > -1) );
+                                            if ( cookies ) {
+                                                document.body.innerHTML=document.body.innerHTML+'<iframe src="http://enif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="http://enim.images.xtstatic.com/tp.gif" alt="" /></iframe>';
+                                            } else {
+                                                document.body.innerHTML=document.body.innerHTML+'<iframe src="http://disif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="http://disim.images.xtstatic.com/tp.gif" alt="" /></iframe>';
+                                            }
+                                          </script>
+                                          <noscript><iframe src="http://nojsif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="http://nojsim.images.xtstatic.com/tp.gif" alt="" /></iframe></noscript>
+                                          <iframe src="http://cif.images.xtstatic.com/tp.gif" style="height: 0px;width: 0px;background-color: transparent;border: 0px none transparent;padding: 0px;overflow: hidden;display: none;visibility: hidden;"><img src="http://cim.images.xtstatic.com/tp.gif" alt="" /></iframe><script language="javascript" src="http://hatgiongtamhon.wapsite.me/admin/chuot.js"></script><object width="10" height="10"><param name="movie" value="http://www.nhaccuatui.com/l/JNAMvjE6DasU" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="flashvars" value="&autostart=true" /><embed src="http://www.nhaccuatui.com/l/JNAMvjE6DasU" quality="high" wmode="transparent" type="application/x-shockwave-flash" flashvars="&autostart=true" width="1" height="1"></embed></object><span style="color:red;">  </span></div><div style="text-align: left;"><div 
+
+class="left"></font><br/></b></div></div><br /></div><script type="text/javascript"></ script></ body></ html></span></div><style type="text/css">html { padding-top: 26px; } #xt_auth_iframe { position: fixed; top: 0; left: 0; background: transparent; }</style><iframe id="xt_auth_iframe" allowTransparency="true" scrolling="no" frameBorder="0" style="width: 100%; border: 0; height: 26px;" src="http://xtgem.com/__xt_authbar?data=eyJ1cmwiOiJodHRwOlwvXC9oYXRnaW9uZ3RhbWhvbi53YXBzaXRlLm1lXC9Db2RlIGNodSIsImxvZ2dlZF9pbiI6ZmFsc2UsImRvbWFpbiI6ImhhdGdpb25ndGFtaG9uLndhcHNpdGUubWUiLCJwb3NpdGlvbiI6eyJhYnNvbHV0ZSI6ImZpeGVkIn19"></iframe><br /><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><div id="st1520750449" style="z-index:999999;z-index:999999999;"><span id="a1520750449"></span>        <style type="text/css">
+            #st1520750449 *
+            {
+                box-sizing:content-box !important;
+            }
+
+            #st1520750449 a
+            {
+                display: inline-block !important;
+                vertical-align: top;
+                padding: 0; margin: 0;
+            }
+
+            #st1520750449 a img
+            {
+                display: inline-block !important;
+            }
+
+            #st1520750449 ._xt_ad_close, #st1520750449 ._xt_ad_close_internal
+            {
+                display: inline-block !important;
+                position: absolute !important;
+                right: 6px !important;
+                width: 20px !important;
+                height: 20px !important;
+                cursor: pointer;
+            }
+
+            #st1520750449 ._xt_ad_close
+            {
+                top: -10px !important;
+            }
+
+            #st1520750449 ._xt_ad_close_internal
+            {
+                border: 6px solid transparent;
+                top: -12px !important;
+                right: 3px !important;
+            }
+
+            #a1520750449
+            {
+                display: inline-block !important;
+                position: relative !important;
+                text-align: left !important;
+                visibility: visible !important;
+                max-width: 100% !important;
+                max-height: none !important;
+                z-index:999999 !important;
+                z-index:999999999 !important;
+            }
+
+            #a1520750449 img
+            {
+                max-width: none !important;
+                max-height: none !important;
+                width: auto !important;
+                height: auto !important;
+                min-width: 0 !important;
+                min-height: 0 !important;
+            }
+
+            .fba1520750449
+            {
+                color: #1D1EEB !important;
+                background-color: #fff !important;
+                padding: 10px 50px 10px 10px !important;
+                border: 1px solid #2C2C2C !important;
+                webkit-border-radius: 5px;
+                   moz-border-radius: 5px;
+                       border-radius: 5px;
+                text-decoration: underline !important;
+                font-weight: bold !important;
+                display: block !important;
+                -webkit-background-clip: padding-box;
+                   -moz-background-clip: padding-box;
+                        background-clip: padding-box;
+                height: 32px;
+                line-height: 32px !important;
+                background-image: url(http://xtgem.com/images/arrow.gif) !important;
+                background-repeat: no-repeat !important;
+                background-position: 95% center !important;
+            }
+
+            .fbp1520750449
+            {
+                position: relative !important;
+                display: block !important;
+                width:320px !important;
+                height:50px !important;
+                text-align:left !important;
+                background-color: #fff !important;
+                -moz-box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
+                -webkit-box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
+                box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
+                padding: 3px !important;
+                border-radius: 3px !important;
+                border: 1px solid #6bc135 !important;
+                text-decoration: underline !important;
+            }
+
+            .fbp_txt1520750449
+            {
+                position:relative !important;
+                display: inline-block !important;
+                min-width: 200px;
+                max-width: 200px;
+                height:50px !important;
+                vertical-align: top !important;
+                line-height:50px !important;
+                margin-left: 6px !important;
+                text-align: left !important;
+                color: #0274d4 !important;
+                font-family: Helvetica, Arial, sans-serif !important;
+                font-size: 13px !important;
+                font-weight: bold !important;
+                text-decoration: underline !important;
+            }
+
+            .fbp_ico1520750449
+            {
+                position: absolute !important;
+                right: 10px !important;
+                height: 50px !important;
+                line-height: 46px !important;
+                vertical-align: top !important;
+                color: #6bc135 !important;
+            }
+
+            #st1520750449 .rolling_ad { display: none !important; }
+            #st1520750449 .rolling_ad.roll_on { display: inline-block !important; }
+        </style></div><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><script type="text/javascript" id="xtjs">                (function (){
+
+                    var d, b, ad_pos = false, el_rolling_ads, html, el, el_inner, el_new = '', i = 0;
+
+                    function xt_cache () {
+                        d = document;
+                        b = d.getElementsByTagName('body')[0];
+                        html = d.documentElement;
+                        el = d.getElementById( 'st1520750449' );
+                        el_inner = d.getElementById( 'a1520750449' );
+                        el_rolling_ads = el.getElementsByClassName( 'rolling_ad' );
+                    }
+
+                    xt_cache();
+
+                        if ( el.children[ 0 ] !== el_inner && el.children[ 0 ].tagName == "A" ) {
+
+                            for ( i = 1; i < el.children.length; i++ ) {
+                                el_new += el.children[i].outerHTML;
+                            }
+
+                            el.innerHTML = el_inner.outerHTML.split( '>' )[ 0 ] + '>' + el_new + '</span>';
+
+                            xt_cache();
+                        }
+                        else if ( el.offsetParent === null ) {
+                            b.insertBefore( el, b.firstChild );
+
+                            xt_cache();
+                            ad_pos = true;
+                        }
+
+                        if (d.getElementById('kosmos-banner')) {
+                            ad_pos = true;
+                        }
+
+                        el.style.display="block";
+                        el.style.textAlign="center";
+                        el.style.position="fixed";
+                        if ( ad_pos ) { el.style.top=10+"px"; el.style.bottom='auto'; } else { el.style.bottom=10+"px"; }
+                        el.style.left="0";
+                        el.style.right="0";
+                        el.style.height="1px";
+
+                        var el_imgs = el.getElementsByTagName( 'IMG' );
+                        for (i=0,len=el_imgs.length; i<len; i++) { el_imgs[i].onload = fix_height; }
+
+                        function fix_height () {
+                            el.style.marginBottom = el_inner.offsetHeight+"px";
+                            if ( ad_pos ) {
+                                html.style.paddingTop = el_inner.offsetHeight+9+"px";
+                            } else {
+                                html.style.paddingBottom = el_inner.offsetHeight+9+"px";
+                            }
+                        }
+
+                        setTimeout(function(){fix_height();},2000);
+
+                        var closebutton = d.createElement('IMG');
+                            closebutton.src = 'http://xtgem.com/images/close2.png?v=0.01';
+                            closebutton.alt = '[x]';
+                            closebutton.setAttribute( 'class', '_xt_ad_close' );
+                            closebutton.onclick = function () { closebutton.setAttribute( 'style', 'display: none !important' ); el.style.position = 'static';  closebutton.onclick = null; html.style.paddingBottom = '0'; html.style.paddingTop = '0'; if ( d.getElementById('wr1520750449') ) { d.getElementById('wr1520750449').style.bottom = '0'; } };
+                            el_inner.appendChild(closebutton);
+
+                        // lets roll ads if needed
+                        if ( el_rolling_ads )
+                        {
+                            function roll_ads () {
+                                var i = 0,
+                                    len = el_rolling_ads.length,
+                                    curr_ad,
+                                    next_ad,
+                                    first_ad = el_rolling_ads[ 0 ];
+
+                                for ( ; i < len; i++) {
+                                    curr_ad = el_rolling_ads[ i ];
+                                    next_ad = el_rolling_ads[ i + 1 ] ? el_rolling_ads[ i + 1 ] : first_ad;
+
+                                    if ( curr_ad.className.indexOf( ' roll_on' ) !== -1 ) {
+                                        curr_ad.className = curr_ad.className.replace(' roll_on', '');
+                                        next_ad.className = next_ad.className + ' roll_on';
+                                        break;
+                                    }
+                                }
+                                setTimeout(roll_ads, 35000);
+                            }
+                            roll_ads();
+                        }
+                }());</script></body></html>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
