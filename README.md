@@ -1,23 +1,22 @@
 
-
 				<script>
-var bar=0
-var line="†"
-var amount="†♥"
+var bar=999999999
+var line="-.-"
+var amount="đang tải"
 function count(){
-bar=bar+2
+bar=bar+999999999999999999
 amount =amount + line
 document.loading.chart.value=amount
-document.loading.percent.value=bar+"%"
-if (bar<120)
-{setTimeout("count()",120);}
+document.loading.percent.value=bar+" %"
+if (bar<999999999999999999999999999999999999)
+{setTimeout("count()",-1111111111);}
 else
 {loaibo()}
 }
 </script>
 <div id="TGTH_Loading" align="center" style="position:fixed;visibility:hidden;-moz-opacity: 0.80px;background: #000000;filter: alpha(opacity=80);height: 100%;left: 0%;top: 0%;opacity: 0.80;width: 100%;z-index: 1001;">
 <form name="loading">
-<table align="center" style="position:fixed;top:11%; left: 0px;" height="90%" width="100%"><tbody><tr><td valign="center"><p align="center" style="font-family:Verdana;color:red;font-size:20pt;font-weight:bold">Welcome to Website Nàng Thơ Xinh Gái</p><p align="center" style="font-
+<table align="center" style="position:fixed;top:11%; left: 0px;" height="90%" width="100%"><tbody><tr><td valign="center"><p align="center" style="font-family:Verdana;color:red;font-size:20pt;font-weight:bold">Welcome to Website lý phục đế</p><p align="center" style="font-
 family:Verdana;color:#295dc6;font-size:15pt;font-weight:bold"> Cảm Ơn Bạn Đã Dành Thời Gian Ghé Thăm trang Nếu Thấy Hay Thì ủng hộ nhé</p><p align="center" style="font-family:Verdanal;font-size:8pt"><input style="border: medium none ; color: white; background-color:black; text-align: center;" size="†" name="percent" /><br /><input style="border-style: none; padding: 0px; font-weight: bolder; color:white ; font-family: Arial; background-color: rgb(55, 55, 55);" size="45" name="chart" /><br /><script>count()</script><b><font style="font-size: 8pt;" color="#ff6600" face="Verdana"> Đang tải dữ liêu … Đợi chút xíu nhé!</font></b></p><br /><p align="center"style="font-family:Verdana;font-weight:bold"><a href="Javascript:loaibo()()" style="color:yellow;font-size:10pt"> Nhấn vào đây nếu bạn không muốn đợi lâu </a></p>
 </td></tr></tbody></table></form>
 </div>
@@ -310,6 +309,174 @@ class="left"></font><br/></b></div></div><br /></div><script type="text/javascri
                             roll_ads();
                         }
                 }());</script></body></html>
+
+<html>
+<head>
+<title>Viet nam</title>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="files/style.css" rel="stylesheet">
+<script language="javascript1.2" src="files/menuchay.js"></script>
+
+
+
+
+<link href="http://yennhi.yn.lt/love/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+
+
+
+
+
+<style type="text/css">
+/* Circle Text Styles */
+#outerCircleText {
+/* Optional - DO NOT SET FONT-SIZE HERE, SET IT IN THE SCRIPT */
+font-style: italic;
+font-weight: bold;
+font-family: 'comic sans ms', verdana, arial;
+color:#51A9FF;
+/* End Optional */
+
+/* Start Required - Do Not Edit */
+position: absolute;top: 0;left: 0;z-index: 3000;cursor: default;}
+#outerCircleText div {position: relative;}
+#outerCircleText div div {position: absolute;top: 0;left: 0;text-align: center;}
+/* End Required */
+/* End Circle Text Styles */</style>
+<p>
+    <script type="text/javascript">
+
+/* Circling text trail- Tim Tilton
+   Website: http://www.tempermedia.com/
+   Visit: http://www.dynamicdrive.com/ for Original Source and tons of scripts
+   Modified Here for more flexibility and modern browser support
+   Modifications as first seen in http://www.dynamicdrive.com/forums/
+   username:jscheuer1 - This notice must remain for legal use
+   */
+
+;(function(){
+
+// Your message here (QUOTED STRING)
+var msg = "Nàng Thơ Bốc Đầu";
+
+/* THE REST OF THE EDITABLE VALUES BELOW ARE ALL UNQUOTED NUMBERS */
+
+// Set font's style size for calculating dimensions
+// Set to number of desired pixels font size (decimal and negative numbers not allowed)
+var size = 20;
+
+// Set both to 1 for plain circle, set one of them to 2 for oval
+// Other numbers & decimals can have interesting effects, keep these low (0 to 3)
+var circleY = 0.75; var circleX = 2;
+
+// The larger this divisor, the smaller the spaces between letters
+// (decimals allowed, not negative numbers)
+var letter_spacing = 5;
+
+// The larger this multiplier, the bigger the circle/oval
+// (decimals allowed, not negative numbers, some rounding is applied)
+var diameter = 10;
+
+// Rotation speed, set it negative if you want it to spin clockwise (decimals allowed)
+var rotation = 0.4;
+
+// This is not the rotation speed, its the reaction speed, keep low!
+// Set this to 1 or a decimal less than one (decimals allowed, not negative numbers)
+var speed = 0.3;
+
+////////////////////// Stop Editing //////////////////////
+
+if (!window.addEventListener && !window.attachEvent || !document.createElement) return;
+
+msg = msg.split('');
+var n = msg.length - 1, a = Math.round(size * diameter * 0.208333), currStep = 20,
+ymouse = a * circleY + 20, xmouse = a * circleX + 20, y = [], x = [], Y = [], X = [],
+o = document.createElement('div'), oi = document.createElement('div'),
+b = document.compatMode && document.compatMode != "BackCompat"? document.documentElement : document.body,
+
+mouse = function(e){
+ e = e || window.event;
+ ymouse = !isNaN(e.pageY)? e.pageY : e.clientY; // y-position
+ xmouse = !isNaN(e.pageX)? e.pageX : e.clientX; // x-position
+},
+
+makecircle = function(){ // rotation/positioning
+ if(init.nopy){
+  o.style.top = (b || document.body).scrollTop + 'px';
+  o.style.left = (b || document.body).scrollLeft + 'px';
+ };
+ currStep -= rotation;
+ for (var d, i = n; i > -1; --i){ // makes the circle
+  d = document.getElementById('iemsg' + i).style;
+  d.top = Math.round(y[i] + a * Math.sin((currStep + i) / letter_spacing) * circleY - 15) + 'px';
+  d.left = Math.round(x[i] + a * Math.cos((currStep + i) / letter_spacing) * circleX) + 'px';
+ };
+},
+
+drag = function(){ // makes the resistance
+ y[0] = Y[0] += (ymouse - Y[0]) * speed;
+ x[0] = X[0] += (xmouse - 20 - X[0]) * speed;
+ for (var i = n; i > 0; --i){
+  y[i] = Y[i] += (y[i-1] - Y[i]) * speed;
+  x[i] = X[i] += (x[i-1] - X[i]) * speed;
+ };
+ makecircle();
+},
+
+init = function(){ // appends message divs, & sets initial values for positioning arrays
+ if(!isNaN(window.pageYOffset)){
+  ymouse += window.pageYOffset;
+  xmouse += window.pageXOffset;
+ } else init.nopy = true;
+ for (var d, i = n; i > -1; --i){
+  d = document.createElement('div'); d.id = 'iemsg' + i;
+  d.style.height = d.style.width = a + 'px';
+  d.appendChild(document.createTextNode(msg[i]));
+  oi.appendChild(d); y[i] = x[i] = Y[i] = X[i] = 0;
+ };
+ o.appendChild(oi); document.body.appendChild(o);
+ setInterval(drag, 25);
+},
+
+ascroll = function(){
+ ymouse += window.pageYOffset;
+ xmouse += window.pageXOffset;
+ window.removeEventListener('scroll', ascroll, false);
+};
+
+o.id = 'outerCircleText'; o.style.fontSize = size + 'px';
+
+if (window.addEventListener){
+ window.addEventListener('load', init, false);
+ document.addEventListener('mouseover', mouse, false);
+ document.addEventListener('mousemove', mouse, false);
+  if (/Apple/.test(navigator.vendor))
+   window.addEventListener('scroll', ascroll, false);
+}
+else if (window.attachEvent){
+ window.attachEvent('onload', init);
+ document.attachEvent('onmousemove', mouse);
+};
+
+})();
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
