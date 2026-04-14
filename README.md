@@ -386,7 +386,7 @@ url: http://kênhit.vn (Tên miền có dấu Tiếng Việt)
     <div id="TextCounter">
         <strong>GÁI ĐẸP 
         <img src="4.gif" />
-        <strong>BỐC ĐẦU</strong> <span id="counter">
+        <strong>BỐC ĐẦU </strong> <span id="counter">
             <script type="text/javascript">
                 // January: tháng 1
                 // February: tháng 2
