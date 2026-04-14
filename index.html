@@ -150,9 +150,7 @@ function dongy()
 </DIV>
 </CENTER>
 
-<table id="content" width="60%" cellpadding="30" align="right" height="100%">
-<tr>
-<td valign="middle" style="color:#FF0000;font-weight:bold;" height="100%">
+
 
 <DIV class="layermensaje" id="ttecleado"></DIV>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -191,28 +189,30 @@ url: http://kênhit.vn (Tên miền có dấu Tiếng Việt)
              <div id="wrap">
                 <div id="text">
 			        <div id="code">
-			      <font color="#0000FF"><span class="say">Chào em yêu,</span><br>
+			      <font color="#0000FF"><span class="say"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin">Chào em yêu,</span><br>
+						<span class="say"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin"> hello bé cưng >3</span><br>
+						<span class="say"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin">Em là người con gái anh yêu nhất :)</span><br>
+						<span class="say"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin">Em xinh đẹp nhất !</span><br>
+						<span class="say"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin">Em đáng yêu nhất !</span><br>
+						<span class="say"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin">Em gái bốc đầu nhất !</span><br>
+						<span class="say"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin">Em gái hãm nhất !</span><br>
+						<span class="say"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin">Em gái điên nhất !</span><br>
+						<span class="say"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin">Em gái nhây nhất !</span><br>
+						<span class="say"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin">Em là một điều may mắn trong cuộc sống của anh</span><br>
+						<span class="say"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin">..."Có em, anh sẽ chẳng cần điều gì khác em"</span><br>
+						<span class="say"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin">Yêu em cho đến khi nào anh không còn tồn tại <3</span><br>
+						<span class="say"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin">Hãy cứ tin em nhé. 'Ta sẽ có một chuyến đi thật dài và đích đến là hôn lễ' :*</span><br>
 						<span class="say"> </span><br>
-						<span class="say">Em là người con gái anh yêu nhất :)</span><br>
-						<span class="say">Em xinh đẹp nhất !</span><br>
-						<span class="say">Em đáng yêu nhất !</span><br>
-						<span class="say">Em gái bốc đầu nhất !</span><br>
-						<span class="say">Em gái hãm nhất !</span><br>
-						<span class="say">Em gái điên nhất !</span><br>
-						<span class="say">Em gái nhây nhất !</span><br>
-						<span class="say">Em là một điều may mắn trong cuộc sống của anh</span><br>
-						<span class="say">..."Có em, anh sẽ chẳng cần điều gì khác em"</span><br>
-						<span class="say">Yêu em cho đến khi nào anh không còn tồn tại <3</span><br>
-						<span class="say">Hãy cứ tin em nhé. 'Ta sẽ có một chuyến đi thật dài và đích đến là hôn lễ' :*</span><br>
-						<span class="say"> </span><br>
-                        <span class="say"><span class="space"></span> -- Yêu em thật nhiều --</span>
+                        <span class="say"><span class="space"></span> <span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin">-- Yêu em thật nhiều --</span>
 			  </font></p>
       </div>
                 </div>
                 <div id="clock-box">
-                    <span class="STYLE1"></span><font color="#FF0000">Anh <3 Em</font>
-<span class="STYLE1"> Time of love...</span>
+				
+                    <span class="STYLE1"></span><font color="#FF0000"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin">Anh <3 Em</font>
+<span class="STYLE1"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin"> Time of love...</span>
                   <div id="clock"></div>
+				  
               </div>
                 <canvas id="canvas" width="1100" height="680"></canvas>
             </div>
@@ -382,6 +382,79 @@ url: http://kênhit.vn (Tên miền có dấu Tiếng Việt)
 <p>chuyên edit ,mod game , auto,...</p>
 <p>Contact: <a href="fb.com/hackker.tk" target="_blank">Lý Phục Đế</a></p>
 </div>
-<iframe src="http://www.nhaccuatui.com/mh/background/VyfpdksboLsO" width="1" height="1" frameborder="0" allowfullscreen></iframe>
+<body onload="javascript:teclear();">
+    <div id="TextCounter">
+        <strong>BIA 
+        <img src="4.gif" />
+        <strong>RƯỢU</strong> <span id="counter">
+            <script type="text/javascript">
+                // January: tháng 1
+                // February: tháng 2
+                // March: tháng 3
+                // April: tháng 4
+                // May: tháng 5
+                // June: tháng 6
+                // July: tháng 7
+                // August: tháng 8
+                // September: tháng 9
+                // October: tháng 10
+                // November: tháng 11
+                // December: tháng 12
+                new CountUp('sep 2 2025 14:00:00', 'counter', "...  ");
+            </script>
+        </span>
+    </div>
+    <div id="BgContent">
+        <div id="copyright">
+
+        </div>
+        <div id="TextContent">
+        </div>
+		
+<!DOCTYPE html>
+<html>
+
+<body>
+    <p>Nghe Nhạc Vui Vẻ</p>
+
+    <!-- audio tag starts here -->
+    <audio controls autoplay>
+        <source src="I Do 911 - 911.mp3" type="audio/mp3">
+    </audio>
+    <!-- audio tag ends here -->
+
 </body>
+</html>
+          <audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="I Do 911 - 911.mp3" type="audio/mpeg"  oncanplaythrough="this.play(1);">
+Your browser does not support the audio element.
+</audio>
+        </div>
+    </div>
+    <div id="canvas">
+    </div>
+    <script type="text/javascript" src="protoclass.js"></script>
+    <script type="text/javascript" src="box2d.js"></script>
+    <script type="text/javascript" src="Main.js"></script>
+    <script language="javascript" type="text/javascript">
+        mensaje =
+'<font color="#FF0000" size="6"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)">Nhìn em mà anh cảm thấy đau lòng . vì phải lòng em , ahihihhi</span><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin"><img alt="CN" loading="lazy" width="200" height="200" decoding="async" data-nimg="1" style="color:transparent" src="Bản sao của IMG_1776063983717_1776065688140.jpg"/></font><br>' +
+'<font color="#FF0000" size="6"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"></i>em như hoa nở trong rừng , anh hóa thành sói , kao vào múp hoa , ahihi</span><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin"><img alt="CN" loading="lazy" width="200" height="200" decoding="async" data-nimg="1" style="color:transparent" src="IMG_1776063983690_1776065682602.jpg"/></font><br>' +
+'<font color="#FF0000" size="6"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"></i>con lợn giống em , nhưng mà em không giống con lợn , aihihi</span><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin"><img alt="CN" loading="lazy" width="200" height="200" decoding="async" data-nimg="1" style="color:transparent" src="IMG_1776063983703_1776065685282.jpg"/></font><br>' +
+'<font color="#FF0000" size="6"></span><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"></i> nếu em là loài hoa trinh nữ , anh sẽ là một đống phân trâu , ahihihi</span><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin"><img alt="CN" loading="lazy" width="200" height="200" decoding="async" data-nimg="1" style="color:transparent" src="Screenshot_20260413-151928_Chrome.jpg"/></font><br>' +
+'<font color="#FF0000" size="6"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><img src="Screenshot_20260413-151638_Chrome.jpg" /></i>Lý Phục Đế Tặng em Bii</span></font><br>' ;
+
+        line = 0;
+        cursor = '<span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin"><img alt="CN" loading="lazy" width="130" height="50" decoding="async" data-nimg="1" style="color:transparent" src="Screenshot_20260413-151744_Chrome.jpg"/>ý Phục Đế Tặng em Bii';
+        function teclear(lý) {
+            if (line == mensaje.length) cursor = '';
+            document.getElementById('TextContent').innerHTML = mensaje.substring(0, line) + cursor;
+            var objDiv = document.getElementById("TextContent");
+            objDiv.scrollTop = objDiv.scrollHeight;
+            if (line++ < mensaje.length) setTimeout("teclear(9)", 15);
+        }
+    </script>
+</body>
+</html>
 </html>
