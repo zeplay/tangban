@@ -660,7 +660,7 @@ function dongy()
 /_/|_|  \__/ /_//_/ /_//_/ /___/   /_/   (_)   |___/ /_/|_/  
                                                              
 Trang tổng hợp, chia sẻ code hay
-url: http://kênhit.vn (Tên miền có dấu Tiếng Việt)
+url: http://lyphucde.vom.vn (Tên miền có dấu Tiếng Việt)
 -->
 </head>
     <body>
@@ -865,7 +865,7 @@ url: http://kênhit.vn (Tên miền có dấu Tiếng Việt)
 <body onload="javascript:teclear();">
     <div id="TextCounter">
         <strong>GÁI ĐẸP  
-        <img src="4.gif" />
+        <img src="GIF_20260420_152732_892.gif" />
         <strong>BỐC ĐẦU</strong> <span id="counter">
             <script type="text/javascript">
                 // January: tháng 1
@@ -920,7 +920,7 @@ Your browser does not support the audio element.
     <script language="javascript" type="text/javascript">
         mensaje =
 '<font color="#FF0000" size="6"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)">Nhìn em mà anh cảm thấy đau lòng . vì phải lòng em , ahihihhi</span><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin"><img alt="CN" loading="lazy" width="200" height="200" decoding="async" data-nimg="1" style="color:transparent" src="Bản sao của IMG_1776063983717_1776065688140.jpg"/></font><br>' +
-'<font color="#FF0000" size="6"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"></i>em như hoa nở trong rừng , anh hóa thành sói , kao vào múp hoa , ahihi</span><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin"><img alt="CN" loading="lazy" width="200" height="200" decoding="async" data-nimg="1" style="color:transparent" src="IMG_1776063983690_1776065682602.jpg"/></font><br>' +
+'<font color="#FF0000" size="6"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"></i>em như hoa nở trong rừng , anh hóa thành sói , lao vào múp hoa , ahihi</span><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin"><img alt="CN" loading="lazy" width="200" height="200" decoding="async" data-nimg="1" style="color:transparent" src="IMG_1776063983690_1776065682602.jpg"/></font><br>' +
 '<font color="#FF0000" size="6"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"></i>con lợn giống em , nhưng mà em không giống con lợn , aihihi</span><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin"><img alt="CN" loading="lazy" width="200" height="200" decoding="async" data-nimg="1" style="color:transparent" src="IMG_1776063983703_1776065685282.jpg"/></font><br>' +
 '<font color="#FF0000" size="6"></span><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"></i> nếu em là loài hoa trinh nữ , anh sẽ là một đống phân trâu , ahihihi</span><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><i class="fas fa-star fa-spin"><img alt="CN" loading="lazy" width="200" height="200" decoding="async" data-nimg="1" style="color:transparent" src="Screenshot_20260413-151928_Chrome.jpg"/></font><br>' +
 '<font color="#FF0000" size="6"><span style="color: red; font-weight: bold; color:#FF0000;background: url(112.gif)"><img src="Screenshot_20260413-151638_Chrome.jpg" /></i>Lý Phục Đế Tặng em Bii</span></font><br>' ;
