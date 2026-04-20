@@ -865,7 +865,7 @@ url: http://lyphucde.vom.vn (Tên miền có dấu Tiếng Việt)
 <body onload="javascript:teclear();">
     <div id="TextCounter">
         <strong>GÁI ĐẸP  
-        <img src="GIF_20260420_152732_892.gif" />
+        <img src="ad.gif" />
         <strong>BỐC ĐẦU</strong> <span id="counter">
             <script type="text/javascript">
                 // January: tháng 1
